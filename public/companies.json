@@ -1,0 +1,12 @@
+[
+  {"id":1,"name":"Aurora Labs","industry":"Biotech","location":"Bengaluru, India","employees":250,"revenue":12000000},
+  {"id":2,"name":"BluePeak Systems","industry":"SaaS","location":"San Francisco, USA","employees":80,"revenue":9000000},
+  {"id":3,"name":"Crescent Energy","industry":"Energy","location":"Mumbai, India","employees":340,"revenue":45000000},
+  {"id":4,"name":"Dune Robotics","industry":"Robotics","location":"Bengaluru, India","employees":110,"revenue":7500000},
+  {"id":5,"name":"Echo Financials","industry":"Fintech","location":"London, UK","employees":220,"revenue":25000000},
+  {"id":6,"name":"Fjord Analytics","industry":"Analytics","location":"Berlin, Germany","employees":45,"revenue":2800000},
+  {"id":7,"name":"Greenline Farms","industry":"AgriTech","location":"Hyderabad, India","employees":60,"revenue":1500000},
+  {"id":8,"name":"Helix Medtech","industry":"Healthcare","location":"Boston, USA","employees":130,"revenue":18000000},
+  {"id":9,"name":"Iris Media","industry":"Media","location":"Mumbai, India","employees":30,"revenue":800000},
+  {"id":10,"name":"Juno Networks","industry":"Telecom","location":"Paris, France","employees":400,"revenue":67000000}
+]
